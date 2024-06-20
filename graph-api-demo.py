@@ -4,7 +4,7 @@ import msal
 from msal import PublicClientApplication
 
 APPLICATION_ID = "2a024f2c-e5ea-450e-92f0-b87eab712b98"
-CLIENT_SECRET = "-xS8Q~PZG-A9FjJ0ndBWlR64wOerALuO511T3bc_"
+CLIENT_SECRET = ""
 
 authority_url = "https://login.microsoftonline.com/consumers/"
 
